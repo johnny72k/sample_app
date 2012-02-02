@@ -114,3 +114,9 @@ footer {
 footer nav {
   float: none;
 }
+
+/* User show page */
+
+.main { width: 400px; float: left; }
+.sidebar { width: 200px; float: right; background-color: #ffc; padding: 1em; }
+img.gravatar { border: 1px solid #999; margin-bottom: -15px; }

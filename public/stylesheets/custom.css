@@ -125,7 +125,7 @@ footer nav {
 
 .main { width: 400px; float: left; }
 .sidebar { width: 200px; float: right; background-color: #ffc; padding: 1em; }
-img.gravatar { border: 1px solid #999; margin-bottom: -15px; }
+img.gravatar { border: 1px solid #999; }
 
 /* User Sign up page */
 
@@ -225,8 +225,6 @@ div.user_info span.user_name {
 
 div.user_info span.microposts {
   font-size: 80%;
-  position: relative;
-  top: 1em;
 }
 
 form.new_micropost {
